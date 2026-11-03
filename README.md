@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vijaykumarrelangi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=520&height=50&lines=Generative+AI;LLMs;RAG;Python;Django;FastAPI" alt="Generative AI | LLMs | RAG | Python | Django | FastAPI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=820&height=50&lines=Generative+AI+%7C+LLMs+%7C+RAG+%7C+Python+%7C+Django+%7C+FastAPI;Building+Production-Grade+AI+Systems" alt="Generative AI | LLMs | RAG | Python | Django | FastAPI | Building Production-Grade AI Systems" />
   </a>
 </p>
 
