@@ -1,6 +1,8 @@
-<h2 align="center">
-  <code>Generative AI</code> | <code>LLMs</code> | <code>RAG</code> | <code>Python</code> | <code>Django</code> | <code>FastAPI</code>
-</h2>
+<p align="center">
+  <a href="https://github.com/vijaykumarrelangi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=520&height=50&lines=Generative+AI;LLMs;RAG;Python;Django;FastAPI" alt="Generative AI | LLMs | RAG | Python | Django | FastAPI" />
+  </a>
+</p>
 
 <h1 align="center">Vijay Kumar Relangi</h1>
 
